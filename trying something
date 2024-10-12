@@ -1,0 +1,32 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="style.css">
+</head>
+<style>
+  body { font-family: Arial, sans-serif;
+ text-align: center;
+  }
+  .icons { 
+  margin-top: 20px;
+   }
+  .icons a {
+  margin: 0 10px;
+   }
+    </style>
+</head>
+<body>
+<img src="yourphoto.jpg"  alt="your photo">
+<h1> your name</h1>
+<p> age : "your age"</p>
+<div class="icons">
+<a href="https://github.com/yourprofile" target="_blank"><img src="github-icon.png" alt="GitHub" width="30"></a>
+<a href="https://linkedin.com/yourprofile" target="_blank"><img src="linkedin-icon.png" alt="LinkedIn" width="30"></a>
+<a href="your-resume.pdf" target="_blank"><img src="resume-icon.png" alt="resume" width="30"></a>
+</div>
+</body>
+</html>
+
+
+
